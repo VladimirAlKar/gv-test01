@@ -133,7 +133,7 @@ git checkout main
 
 Изображение (если поддерживается):
 
-image::https://via.placeholder.com/400x200.png[Пример изображения, 400x200]
+image::https://gitverse.ru/_next/static/media/rate-widget-hand.fc8fed19.svg[Пример изображения, 400x200]
 
 == Переменные и атрибуты
 
